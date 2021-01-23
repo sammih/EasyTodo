@@ -2,9 +2,9 @@
 
 namespace App;
 
-class Task
+class Todo
 {
-    public function activities(string $tasks): array
+    public function tasks(string $tasks): array
     {
         return explode(', ', $tasks);
     }

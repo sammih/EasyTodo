@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":150:{a:2:{s:7:"defects";a:1:{s:39:"TaskTest::test_task_contains_activities";i:3;}s:5:"times";a:1:{s:39:"TaskTest::test_task_contains_activities";d:0.002;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":246:{a:2:{s:7:"defects";a:2:{s:39:"TaskTest::test_task_contains_activities";i:3;s:34:"TodoTest::test_todo_contains_tasks";i:4;}s:5:"times";a:2:{s:39:"TaskTest::test_task_contains_activities";d:0.002;s:34:"TodoTest::test_todo_contains_tasks";d:0.002;}}}
