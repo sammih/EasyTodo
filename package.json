@@ -1,0 +1,28 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "EasyTodo App is meant to help you organize your daily routines with much ease. This simple app will be implemented using php, mysql, **[tailwind](https://tailwindcss.com/)** and a bit of **[Vuejs](https://vuejs.org/)**. Test Driven process will be involved in the process.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.3",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammih/EasyTodo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammih/EasyTodo/issues"
+  },
+  "homepage": "https://github.com/sammih/EasyTodo#readme"
+}
